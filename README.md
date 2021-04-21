@@ -17,9 +17,9 @@
 
 <br />
 
-- 🔭 I’m currently working on Backend Stuff.
+- 🔭 I’m currently working on Machine Learning Stuff.
 - 🌱 I’m currently learning flutter
-- 💬 Ask me about **DevOps, Backend Development and Data Science**
+- 💬 Ask me about **Data Science, DevOps and Backend Development**
 - 📫 How to reach me: [Mail](mailto:rahulagrawal799110@gmail.com), [LinkedIn](https://www.linkedin.com/in/rahul-agrawal-0958a416a).
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a Geologist too.

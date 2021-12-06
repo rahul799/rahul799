@@ -22,6 +22,5 @@
 - 💬 Ask me about **Data Science, DevOps and Backend Development**
 - 📫 How to reach me: [Mail](mailto:rahulagrawal799110@gmail.com), [LinkedIn](https://www.linkedin.com/in/rahul-agrawal-0958a416a).
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am a Geologist too.
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul799&show_icons=true&hide_border=true)

@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on Cloud Stuff.
 - 🌱 I’m currently learning Web3 Technologies
 - 💬 Ask me about **DevOps and Backend Development**
-- 📫 How to reach me: [Mail](mailto:rahulagrawal799110@gmail.com), [LinkedIn](https://www.linkedin.com/in/rahul799).
+- 📫 How to reach me: [Mail](mailto:rahulagrawal799110@gmail.com).
 - 😄 Pronouns: He/him
 
 ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul799&show_icons=true&hide_border=true)

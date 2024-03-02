@@ -6,9 +6,7 @@
 <a href="https://twitter.com/rahul_79911">
   <img align="left" alt="Rahul Agrawal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://leetcode.com/rahul799/">
-  <img align="left" alt="Rahul's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rahul799.rahul799)
 

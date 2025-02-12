@@ -3,9 +3,7 @@
 ### Hi there 👋 Rahul Here..
 
 <br/>
-<a href="https://twitter.com/rahul_79911">
-  <img align="left" alt="Rahul Agrawal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rahul799.rahul799)
